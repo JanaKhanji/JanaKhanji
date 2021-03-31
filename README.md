@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 I am a Web developer.
 <br />
 In the past few years, I have learned and used Angular, ReactJS, Ionic to build some personal and freelancing projects.
+<br />
 As a developer, I have always felt the need to learn more and build more.
 
 ### Some of my fav technologies:
