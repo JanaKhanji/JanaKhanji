@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello, I'm Jana Khanji
 I am a Web developer
 
 ### some of my fav technologies:
