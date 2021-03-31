@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello, I'm Jana Khanji
+I am a Web developer
+
+### some of my fav technologies:
+- ReactJS
+- Angular
+- Ionic
+- NodeJS
+- Bootstrap / TailwindCSS
+- .NetCore
+
+### Find me here:
+<a href="https://www.linkedin.com/in/jana-khanji/" title="LinkedIn">LinkedIn</a>
+<a href="https://janakhanji-portfolio.web.app/" title="Portfolio">Portfolio</a>
+
+### And feel free to ask me about anything via email
+<a href="mailto:jana.khanji@ieee.org" title="Mail">jana.khanji@ieee.org</a>
