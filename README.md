@@ -34,4 +34,4 @@ As a developer, I have always felt the need to learn more and build more.
 <a href="https://janakhanji-portfolio.web.app/" title="Portfolio">Portfolio</a>
 
 ### And feel free to ask me about anything via email
-<a href="mailto:jana.khanji@ieee.org" title="Mail">jana.khanji@ieee.org</a>
+<a href="mailto:janakhanji98@gmail.com" title="Mail">jana.khanji@ieee.org</a>
