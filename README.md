@@ -26,6 +26,7 @@ I am a Web developer
 
 ### Find me here:
 <a href="https://www.linkedin.com/in/jana-khanji/" title="LinkedIn">LinkedIn</a>
+<br />
 <a href="https://janakhanji-portfolio.web.app/" title="Portfolio">Portfolio</a>
 
 ### And feel free to ask me about anything via email
