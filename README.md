@@ -28,7 +28,7 @@ As a developer, I have always felt the desire to learn more and build more.
 - Bootstrap / TailwindCSS
 - .NetCore
 
-### ⚡ Find me here:
+### ⚡ Find me here
 <a href="https://www.linkedin.com/in/jana-khanji/" title="LinkedIn">LinkedIn</a>
 <br />
 <a href="https://janakhanji-portfolio.web.app/" title="Portfolio">Portfolio</a>
