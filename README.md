@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 <!--
 **JanaKhanji/JanaKhanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Web developer.
+I am a Web developer✨
 <br />
-In the past few years, I have learned and used Angular, ReactJS, Ionic to build some personal and freelancing projects.
+Over the past few years, I have learned Angular, ReactJS, Ionic to build some personal and freelance projects.
 <br />
-As a developer, I have always felt the need to learn more and build more.
+As a developer, I have always felt the desire to learn more and build more.
 
-### Some of my fav technologies:
+### 😄 Some of my fav technologies
 - ReactJS
 - Angular
 - Ionic
@@ -28,10 +28,10 @@ As a developer, I have always felt the need to learn more and build more.
 - Bootstrap / TailwindCSS
 - .NetCore
 
-### Find me here:
+### ⚡ Find me here:
 <a href="https://www.linkedin.com/in/jana-khanji/" title="LinkedIn">LinkedIn</a>
 <br />
 <a href="https://janakhanji-portfolio.web.app/" title="Portfolio">Portfolio</a>
 
-### And feel free to ask me about anything via email
+### 📫 And feel free to ask me about anything via email
 <a href="mailto:janakhanji98@gmail.com" title="Mail">jana.khanji@ieee.org</a>
