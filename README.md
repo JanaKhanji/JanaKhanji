@@ -21,12 +21,11 @@ Over the past few years, I have learned Angular, ReactJS, Ionic to build some pe
 As a developer, I have always felt the desire to learn more and build more.
 
 ### 😄 Some of my fav technologies
-- ReactJS
 - Angular
+- ReactJS
 - Ionic
 - NodeJS
 - Bootstrap / TailwindCSS
-- .NetCore
 
 ### ⚡ Find me here
 <a href="https://www.linkedin.com/in/jana-khanji/" title="LinkedIn">LinkedIn</a>
