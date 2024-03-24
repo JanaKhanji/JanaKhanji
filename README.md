@@ -1,30 +1,15 @@
 ### 👋 Hi there 
 
-<!--
-**JanaKhanji/JanaKhanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am a Web developer✨
+I am a Software Engineer ✨
 <br />
-Over the past few years, I have learned Angular, ReactJS, Ionic to build some personal and freelance projects.
+Over the past years, I've immersed myself in diverse software engineering projects, utilizing technologies like Angular, Bootstrap, Tailwind, and Java SpringBoot. Each project has allowed me to learn and grow, refining my expertise and expanding my capabilities.
 <br />
-As a developer, I have always felt the desire to learn more and build more.
+As a software engineer, I have always wanted to learn and build more.
 
-### 😄 Some of my fav technologies
-- Angular
-- ReactJS
-- Ionic
-- NodeJS
+### 😄 Some of my favorite technologies
+- Angular / ReactJS
+- Java / PostgreSQL
+- NodeJS / MongoDB
 - Bootstrap / TailwindCSS
 
 ### ⚡ Find me here
