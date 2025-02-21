@@ -9,7 +9,7 @@ As a software engineer, I have always wanted to learn and build more.
 ### 😄 Some of my favorite technologies
 - Angular / ReactJS
 - Java / PostgreSQL
-- NodeJS / MongoDB
+- NodeJS / NestJS
 - Bootstrap / TailwindCSS
 
 ### ⚡ Find me here
